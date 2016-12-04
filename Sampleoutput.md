@@ -1,3 +1,4 @@
+<pre>
 How many star systems?" 10
 Gallus is a binary star system located at (362,138,11) with 3 jumppoints.
 Gallus beta, a Class G Yellow dwarf with 2 planets.
@@ -71,3 +72,4 @@ Orion prime, a Class O Extremely Bright Blue supergiant with 5 planets.
 Rana is a single star system located at (465,282,10) with 5 jumppoints.
 Rana prime, a Class A Blue-White dwarf with a planet.
    planetsize: 3, BIO: 0, RAW: 2
+</pre>
